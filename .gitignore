@@ -49,6 +49,7 @@ project/plugins/project/
 
 # IntelliJ
 /out/
+.idea/
 *.iml
 
 # mpeltonen/sbt-idea plugin

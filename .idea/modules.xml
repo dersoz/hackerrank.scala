@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../interview/hackerrank.amazon/hackerrank.amazon.iml" filepath="$PROJECT_DIR$/../../interview/hackerrank.amazon/hackerrank.amazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerrank.scala.iml" filepath="$PROJECT_DIR$/hackerrank.scala.iml" />
     </modules>
   </component>
